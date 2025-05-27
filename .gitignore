@@ -1,5 +1,5 @@
 .env
-./activity.log
-./passwords.db
-./secret.key
-./pin_config.json
+activity.log
+passwords.db
+secret.key
+pin_config.json
